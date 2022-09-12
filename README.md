@@ -1,10 +1,10 @@
 # Dynamic-Island-Notification
 
-🌳 Use Xcode Version: 14 RC
+### 🌳 Use Xcode Version: 14 RC
 
-🌳 Notification format file to test
+### 🌳 Notification format file to test
 
- - Create a message.apns file with body as below:
+Create a message.apns file with body as below. After that drag on simulator screen while run project
 
   ```json
   {
@@ -18,4 +18,7 @@
       "Simulator Target Bundle": "com.BaoHoang.DynamicIsland"
   }
   ```
-- After that drag on simulator screen while run project.
+
+### 📌 Mockups App
+![Simulator Screen Recording - iPhone 14 Pro Max - 2022-09-12 at 15 57 24](https://user-images.githubusercontent.com/66858640/189613911-01ac5c8b-4f28-4e1d-a6c3-23b348fd5d1d.gif)
+
